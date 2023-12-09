@@ -1,6 +1,6 @@
 # 2DskyMap
 
-##Description
+## Description
 Create an all-sky map of the stars in the Yale Bright Star Catalog under Aitoff projection. Make a 2-D sky map using equatorial coordinates and another 2-D sky map using galactic coordinates.
 
 Assign colors to the stars according to spectral types:
